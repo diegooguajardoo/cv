@@ -29,7 +29,15 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;
 
 }
-
+		.pic {
+			width: 50%;
+			border-radius: 600px;
+			text-align: center;
+			position: relative;
+			display: block;
+			margin: auto;
+			margin-bottom: 3em;
+		}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
